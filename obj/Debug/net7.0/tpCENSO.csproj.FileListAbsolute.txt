@@ -1,0 +1,15 @@
+Z:\tpCENSO\bin\Debug\net7.0\tpCENSO.exe
+Z:\tpCENSO\bin\Debug\net7.0\tpCENSO.deps.json
+Z:\tpCENSO\bin\Debug\net7.0\tpCENSO.runtimeconfig.json
+Z:\tpCENSO\bin\Debug\net7.0\tpCENSO.dll
+Z:\tpCENSO\bin\Debug\net7.0\tpCENSO.pdb
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.csproj.AssemblyReference.cache
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.AssemblyInfoInputs.cache
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.AssemblyInfo.cs
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.csproj.CoreCompileInputs.cache
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.dll
+Z:\tpCENSO\obj\Debug\net7.0\refint\tpCENSO.dll
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.pdb
+Z:\tpCENSO\obj\Debug\net7.0\tpCENSO.genruntimeconfig.cache
+Z:\tpCENSO\obj\Debug\net7.0\ref\tpCENSO.dll
