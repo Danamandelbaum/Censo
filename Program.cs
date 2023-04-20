@@ -5,10 +5,10 @@ int cantPersonas = 0;
 do
 {
     
-    Console.WriteLine("1 - Cargar persona");
+    Console.WriteLine("1 - Cargar Persona");
     Console.WriteLine("2 - Obtener estadisticas del censo");
-    Console.WriteLine("3 - Buscar persona");
-    Console.WriteLine("4 - Modificar email de una persona");
+    Console.WriteLine("3 - Buscar Persona");
+    Console.WriteLine("4 - Modificar email de una Persona");
     Console.WriteLine("5 - Salir");
     opcion = int.Parse(Console.ReadLine());
 
